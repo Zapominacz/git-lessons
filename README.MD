@@ -138,7 +138,7 @@ In his original 1816 description of the emu, Louis Jean Pierre Vieillot used t
 6. Create `branch-08` from here, but do not checkout it
 7. Revert `fileB.txt` and commit (you are still on the `branch-07`)
 8. Cherry pick commit from `kakapo` tag (notice no commit appeared)
-9. Move to `branch-08` and replace echidna with platypustes in `fileE.txt`. Commit the file.
+9. Move to `branch-08`. Cherry pick the commit from `branch-04` and replace echidna with platypustes in `fileE.txt`. Commit the file.
 
 
 Text:
